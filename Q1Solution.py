@@ -1,3 +1,4 @@
+
 def findRent(start,end):
  if start >= end or start < 0 or end > 24:
         return "Invalid input"
